@@ -1,1 +1,2 @@
-# Root for my projects as part of UWE-AI
+# SethFSAI
+Root for projects as part of UWE-AI
