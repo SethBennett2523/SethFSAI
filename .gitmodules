@@ -1,0 +1,6 @@
+[submodule "TrainingAutomation"]
+	path = TrainingAutomation
+	url = git@github.com:SethBennett2523/TrainingAutomation.git
+[submodule "EvolutionaryTrainingManager"]
+	path = EvolutionaryTrainingManager
+	url = git@github.com:SethBennett2523/EvolutionaryTrainingManager.git
